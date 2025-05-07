@@ -1,4 +1,16 @@
-## Hi there 👋
+## Hi therem I'm Vinith 👋
+
+
+I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
+
+- 🧠 Background in neuroscience + data science  
+- 🌍 Building tech that makes disaster relief & healthcare smarter  
+- 🛠️ Working with: Python, R, SQL, TensorFlow, PyTorch  
+- 📚 Passionate about: open-source, AGI safety, and backpacking the world  
+
+---
+
+
 
 <!--
 **Vink23/vink23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
