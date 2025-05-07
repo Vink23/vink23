@@ -44,15 +44,19 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 
 
 
-<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 10px; border-radius: 6px; background-color: #f9f9f9">
+---
+
+## 📄 Resume Snapshot
+
+<div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #fdfdfd">
 
 <strong>Vinith Kuruppu — Data Scientist | ML Researcher</strong>  
-📧 vinithkuruppu5@gmail.com • 📱 (815) 922-3560 • <a href="https://linkedin.com/in/vinithkuruppu">LinkedIn</a>
+📧 vinithkuruppu5@gmail.com • 📱 (815) 922-3560 • <a href="https://linkedin.com/in/vinithkuruppu">LinkedIn</a>  
 
 <h4>🎓 Education</h4>
 <ul>
-  <li><strong>UC Berkeley</strong>, M.S. Data Science (2025)</li>
-  <li><strong>Loyola University Chicago</strong>, B.S. Computational Neuroscience (2022)</li>
+  <li><strong>UC Berkeley</strong> — M.S. Data Science (Expected 2025)</li>
+  <li><strong>Loyola University Chicago</strong> — B.S. Computational Neuroscience (2022)</li>
 </ul>
 
 <h4>💼 Experience</h4>
@@ -62,8 +66,10 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
   <li><strong>Loyola CV Lab</strong> — Computer vision + neuroscience research</li>
 </ul>
 
-<a href="https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf">📥 Download PDF Resume</a>
+<a href="https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf">📥 Download Full PDF Resume</a>
 
 </div>
+
+---
 
 
