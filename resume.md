@@ -57,5 +57,5 @@ Deep Learning for Neuroscience, Computational Modeling, Experimental Statistics,
 
 ---
 
-📄 [Download PDF Resume](https://github.com/vink23/resume/raw/main/Vinith_Kuruppu_Resume.pdf)
+📄 [Download PDF Resume](https://github.com/vink23/resume/raw/main/resume.pdf)
 
