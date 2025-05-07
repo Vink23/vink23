@@ -2,8 +2,11 @@
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
 
 
+
+
 <p align="center">
-  <img src="https://github.com/vink23/vink23/blob/main/banner.png" alt="Vinith Kuruppu banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png" alt="Vinith Kuruppu banner" width="1000" height="300"/>
+
 </p>
 
 I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
