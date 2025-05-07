@@ -35,9 +35,6 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=vink23&show_icons=true&theme=radical)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vink23&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=vink23&theme=github-compact)
 
 
 
