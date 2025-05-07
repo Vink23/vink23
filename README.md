@@ -1,5 +1,5 @@
 ## Hi there, I'm Vinith 👋
-
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
 
 
 I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
@@ -10,7 +10,7 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 - 📚 Passionate about: open-source, AGI safety, and backpacking the world  
 
 
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/vinithkuruppu/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
+
 
 ---
 
