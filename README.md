@@ -3,7 +3,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/vinithkuruppu/vinithkuruppu/blob/main/banner.png" alt="Vinith Kuruppu banner" width="100%" />
+  <img src="https://github.com/vink23/vink23/blob/main/banner.png" alt="Vinith Kuruppu banner" width="100%" />
 </p>
 
 I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
