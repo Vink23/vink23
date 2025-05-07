@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vink23/vink23/main/banner.png" alt="Vinith Kuruppu banner" width="1000" height="300"/>
+  <img src="https://raw.githubusercontent.com/vink23/vink23/main/banner.png" alt="Vinith Kuruppu banner" width="1000" height="500"/>
 
 </p>
 
