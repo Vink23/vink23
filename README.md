@@ -1,12 +1,16 @@
 ## Hi there, I'm Vinith 👋
 
 
+
 I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
 
 - 🧠 Background in neuroscience + data science  
 - 🌍 Building tech that makes disaster relief & healthcare smarter  
 - 🛠️ Working with: Python, R, SQL, TensorFlow, PyTorch  
 - 📚 Passionate about: open-source, AGI safety, and backpacking the world  
+
+
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/vinithkuruppu/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
 
 ---
 
