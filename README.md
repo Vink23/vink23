@@ -41,10 +41,10 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 
 
 
-<!--
 
 
----
+
+
 ## 📊 Resume
 # 📄 Vinith Kuruppu — Resume
 
@@ -107,6 +107,4 @@ Deep Learning for Neuroscience, Computational Modeling, Experimental Statistics,
 
 📄 [Download PDF Resume](https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
 
-
-<!--
 
