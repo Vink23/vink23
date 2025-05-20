@@ -21,8 +21,8 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 ---
 
 ## 🔗 Find me around the web 🌍
-- 📝 [Portfolio](https://yourwebsite.dev)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vinithkuruppu/)
+- 🧠[Berkeley](https://www.ischool.berkeley.edu/people/vinith-kuruppu)
 
 ---
 
