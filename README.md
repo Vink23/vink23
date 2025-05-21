@@ -34,11 +34,6 @@ I'm a data scientist, researcher, and builder who enjoys working at the intersec
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 ---
-## 📊 GitHub Stats
-![Vin's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vink23&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 
