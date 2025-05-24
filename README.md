@@ -8,10 +8,9 @@
   <img src="https://github.com/vink23/vink23/blob/main/banner2.png" alt="Vinith Kuruppu banner" width="100%" />
 </p>
 
-I'm a data scientist, researcher, and builder who enjoys working at the intersection of AI, healthcare, and global impact.
+I'm a data scientist, researcher, and builder who enjoys working on neuro inspired AI.
 
 - 🧠 Background in neuroscience + data science  
-- 🌍 Building tech that makes disaster relief & healthcare smarter  
 - 🛠️ Working with: Python, R, SQL, TensorFlow, PyTorch  
 - 📚 Passionate about: open-source, AGI safety, and backpacking the world  
 
