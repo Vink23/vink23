@@ -12,7 +12,7 @@ I'm a data scientist, researcher, and builder who enjoys working on neuro inspir
 
 - 🧠 Background in neuroscience + data science  
 - 🛠️ Working with: Python, R, SQL, TensorFlow, PyTorch  
-- 📚 Passionate about: open-source, AGI safety, and backpacking the world  
+
 
 
 
