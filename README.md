@@ -8,14 +8,12 @@
   <img src="https://github.com/vink23/vink23/blob/main/banner2.png" alt="Vinith Kuruppu banner" width="100%" />
 </p>
 
-I'm a researcher, data scientist, and engineer - with roots in neuroscience and branches in machine learning. I draw inspiration from how minds compute to design systems that think (or at least try to).
+I’m a researcher, data scientist, and engineer with roots in machine learning and branches in neuroscience. My work focuses on building systems that take inspiration from how minds compute to design systems that think (or at least try to).
 
 - 🧠 Background in neuroscience + data science  
-- 🛠️ Working with: Python, R, SQL, TensorFlow, PyTorch
+- 🛠️ Working with: Python, TensorFlow, PyTorch, R, SQL
 
 Curious, slightly obsessive, and always skeptical - I love questions that don't have obvious answers. Let's talk if you're building something cool or a little ambitious!
-
-
 
 
 ---
