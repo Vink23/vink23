@@ -35,6 +35,15 @@ Domain-adaptive RAG system for laparoscopic cholecystectomy surgical question an
 
 ---
 
+### [BrainMRI Classification](https://github.com/vink23/tumor_classification)
+Pipeline for classifying brain tumor MRIs into four categories using **DINOv2 embeddings + ML ensembles**.  
+- 🖼️ Extracted ViT embeddings from MRI scans  
+- 📈 Compared **LogReg, SVM, Random Forest, XGBoost** classifiers  
+- 🧪 Visualized feature space with PCA + t-SNE  
+- 🚑 Application: fast diagnostic support for radiologists
+
+- 
+
 ## 🧰 Tech Stack
 
 
