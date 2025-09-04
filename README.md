@@ -69,6 +69,8 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
   <img src="https://img.shields.io/badge/FAISS-00599C?logo=facebook&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+
 
 </p>
 
