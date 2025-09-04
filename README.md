@@ -82,7 +82,7 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
 
 <div style="max-height: 300px; overflow-y: auto; border: 1px solid #ccc; padding: 15px; border-radius: 8px; background-color: #fdfdfd">
 
-<strong>Vinith Kuruppu — Data Scientist | ML Researcher</strong>  
+<strong>Vinith Kuruppu — ML Engineer | Data Scientist | AI Researcher</strong>  
 📧 vinithkuruppu5@gmail.com • <a href="https://linkedin.com/in/vinithkuruppu">LinkedIn</a>  
 
 <h4>🎓 Education</h4>
