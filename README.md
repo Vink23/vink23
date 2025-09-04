@@ -25,14 +25,7 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
 ---
 
 
-## 🚀 Project Spotlight
-
-<p align="center">
-  <a href="https://github.com/vink23/SurgiRAG">
-    <img src="https://github.com/vink23/SurgiRAG/blob/main/demo.png" alt="SurgiRAG Demo" width="60%" />
-  </a>
-</p>
-
+## 🚀 Projects
 ### [SurgiRAG: Retrieval-Augmented Generation for Surgical QA](https://github.com/vink23/SurgiRAG)
 Domain-adaptive RAG system for laparoscopic cholecystectomy surgical question answering.  
 - 🔎 Built **BioBERT retriever + BGE reranker** for medical text retrieval  
