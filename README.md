@@ -52,6 +52,7 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
 
 <h4>💼 Experience</h4>
 <ul>
+  <li><strong>UC Berkeley</strong> — Research Design & Application</li>
   <li><strong>RAND Corporation</strong> — ML modeling for disaster relief funding</li>
   <li><strong>Exponent Inc.</strong> — Biosensor data pipelines & health insights</li>
   <li><strong>Loyola CV Lab</strong> — Computer vision + neuroscience research</li>
