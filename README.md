@@ -72,55 +72,6 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
 
 
 
-
-
-
-
-
-
-
-
-<!-- Languages -->
-<h3>Languages</h3>
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- ML / AI -->
-<h3>ML / AI</h3>
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?logo=huggingface&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- Data / Visualization -->
-<h3>Data / Visualization</h3>
-<p>
-  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?logo=plotly&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-76B900?logo=python&logoColor=white&style=for-the-badge" />
-</p>
-
-<!-- MLOps / Tools -->
-<h3>MLOps / Tools</h3>
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Weights_&_Biases-FFBE00?logo=weightsandbiases&logoColor=black&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?logo=mlflow&logoColor=white&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/FAISS-00599C?logo=facebook&logoColor=white&style=for-the-badge" />
-</p>
-
----
-
-
-
 ---
 
 ## 📄 Resume Snapshot
