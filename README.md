@@ -70,6 +70,10 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?logo=amazons3&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?logo=amazonec2&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Amazon_SageMaker-02A0E0?logo=amazonsagemaker&logoColor=white&style=for-the-badge" />
+
 
 
 </p>
