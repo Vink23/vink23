@@ -40,70 +40,37 @@ Pipeline for classifying brain tumor MRIs into four categories using **DINOv2 em
 - 🧪 Visualized feature space with PCA + t-SNE  
 - 🚑 Application: fast diagnostic support for radiologists
 
-
 ## 🚀 Projects
 
-🏥 **[SurgiRAG](https://github.com/vink23/SurgiRAG)**  
-![RAG](https://img.shields.io/badge/RAG-Medical-blue) ![LLaMA](https://img.shields.io/badge/LLaMA-LoRA-red) ![BioBERT](https://img.shields.io/badge/BioBERT-Retrieval-green)  
-Domain-adaptive RAG for surgical QA with **+40pt factual accuracy gain**.  
+<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 16px; margin-bottom: 20px;">
 
----
+<h3><a href="https://github.com/vink23/SurgiRAG">🔎 SurgiRAG: Retrieval-Augmented Generation for Surgical QA</a></h3>
 
-🧠 **[BrainMRI Classification](https://github.com/vink23/tumor_classification)**  
-![DINOv2](https://img.shields.io/badge/DINOv2-Embeddings-purple) ![ML](https://img.shields.io/badge/ML-Ensembles-orange) ![XGBoost](https://img.shields.io/badge/XGBoost-✓-yellow)  
-MRI tumor classifier with **4-class ML pipeline** and feature visualizations.  
+<img src="https://img.shields.io/badge/-Python-blue?logo=python"/> 
+<img src="https://img.shields.io/badge/-PyTorch-orange?logo=pytorch"/> 
+<img src="https://img.shields.io/badge/-LoRA-red"/>  
 
-## 🚀 Projects
+- BioBERT retriever + BGE reranker  
+- Fine-tuned **LLaMA** for factual grounding  
+- Metrics: FactCC, BERTScore, ROUGE-L  
+- ⚡ **+40 point factual accuracy gain**
 
----
+</div>
 
-### 🔎 [SurgiRAG: Surgical QA with RAG](https://github.com/vink23/SurgiRAG)
-**Stack:** BioBERT · BGE Reranker · LLaMA (LoRA)  
-📊 Evaluated with FactCC, BERTScore, ROUGE-L  
-⚡ **+40pt factual accuracy gain**
+<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 16px; margin-bottom: 20px;">
 
----
+<h3><a href="https://github.com/vink23/tumor_classification">🖼️ BrainMRI Classification</a></h3>
 
-### 🖼️ [BrainMRI Classification](https://github.com/vink23/tumor_classification)
-**Stack:** DINOv2 ViT embeddings · SVM · XGBoost  
-🧪 PCA & t-SNE for feature visualization  
-🚑 Fast diagnostic support
+<img src="https://img.shields.io/badge/-Python-blue?logo=python"/> 
+<img src="https://img.shields.io/badge/-DINOv2-purple"/> 
+<img src="https://img.shields.io/badge/-Machine%20Learning-green"/>  
 
+- DINOv2 ViT embeddings from MRI scans  
+- Compared **LogReg, SVM, Random Forest, XGBoost**  
+- Visualized feature space with **PCA + t-SNE**  
+- 🚑 **Fast diagnostic support for radiologists**
 
-
-
-## 🚀 Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔎 **SurgiRAG**](https://github.com/vink23/SurgiRAG) | Domain-adaptive RAG system for surgical QA.<br>BioBERT + BGE reranker, LoRA-tuned LLaMA, +40pt factual accuracy gain. |
-| [🖼️ **BrainMRI Classification**](https://github.com/vink23/tumor_classification) | Classifies brain tumor MRIs (4 classes).<br>DINOv2 embeddings, ML ensembles, PCA + t-SNE visualization. |
-
-
-
-## 🚀 Projects
-
-<details>
-<summary><b>🔎 SurgiRAG: Retrieval-Augmented Generation for Surgical QA</b></summary>
-
-- Built **BioBERT retriever + BGE reranker**  
-- Fine-tuned **LLaMA with LoRA** for factual grounding  
-- Evaluated with **FactCC, BERTScore, ROUGE-L**  
-- Achieved **+40 point factual accuracy gain** vs baseline  
-
-[➡️ View Project](https://github.com/vink23/SurgiRAG)
-</details>
-
-<details>
-<summary><b>🖼️ BrainMRI Classification</b></summary>
-
-- DINOv2 embeddings + ML ensembles (LogReg, SVM, RF, XGBoost)  
-- Feature visualization with **PCA + t-SNE**  
-- Fast diagnostic support for radiologists  
-
-[➡️ View Project](https://github.com/vink23/tumor_classification)
-</details>
-
+</div>
 
 
 ## 🚀 Projects
