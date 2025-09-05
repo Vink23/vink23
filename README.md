@@ -40,6 +40,36 @@ Pipeline for classifying brain tumor MRIs into four categories using **DINOv2 em
 - 🧪 Visualized feature space with PCA + t-SNE  
 - 🚑 Application: fast diagnostic support for radiologists
 
+## 🚀 Projects
+
+| [![SurgiRAG](https://img.shields.io/badge/🔎-SurgiRAG-blue?style=for-the-badge)](https://github.com/vink23/SurgiRAG) | [![BrainMRI](https://img.shields.io/badge/🖼️-BrainMRI%20Classification-green?style=for-the-badge)](https://github.com/vink23/tumor_classification) |
+|:--|:--|
+| Domain-adaptive **RAG system** for surgical QA. <br> - BioBERT retriever + BGE reranker <br> - LoRA-tuned LLaMA <br> - **+40pt factual accuracy gain** | Classifies **brain tumor MRIs** into 4 categories. <br> - DINOv2 embeddings + ML ensembles <br> - PCA & t-SNE visualization <br> - Fast diagnostic support |
+
+
+
+## 🚀 Projects
+
+### [SurgiRAG: Retrieval-Augmented Generation for Surgical QA](https://github.com/vink23/SurgiRAG)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![PyTorch](https://img.shields.io/badge/-PyTorch-orange?logo=pytorch) ![LoRA](https://img.shields.io/badge/-LoRA-red)
+
+- 🔎 BioBERT retriever + BGE reranker  
+- 🧠 Fine-tuned LLaMA for factual grounding  
+- 📊 Metrics: FactCC, BERTScore, ROUGE-L  
+- ⚡ **+40 point factual accuracy gain**
+
+---
+
+### [BrainMRI Classification](https://github.com/vink23/tumor_classification)
+![Python](https://img.shields.io/badge/-Python-blue?logo=python) ![DINOv2](https://img.shields.io/badge/-DINOv2-purple) ![ML](https://img.shields.io/badge/-Machine%20Learning-green)
+
+- 🖼️ DINOv2 ViT embeddings from MRI scans  
+- 📈 Compared LogReg, SVM, RF, XGBoost  
+- 🧪 Visualized with PCA + t-SNE  
+- 🚑 **Fast diagnostic support for radiologists**
+
+
+
 ## 🧰 Tech Stack
 
 
