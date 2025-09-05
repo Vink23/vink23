@@ -24,55 +24,6 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
 
 ---
 
-
-## 🚀 Projects
-### [SurgiRAG: Retrieval-Augmented Generation for Surgical QA](https://github.com/vink23/SurgiRAG)
-Domain-adaptive RAG system for laparoscopic cholecystectomy surgical question answering.  
-- 🔎 Built **BioBERT retriever + BGE reranker** for medical text retrieval  
-- 🧠 Fine-tuned **LLaMA** with LoRA to improve factual grounding  
-- 📊 Evaluated with GPT-based and domain-specific metrics (FactCC, BERTScore, ROUGE-L)  
-- ⚡ Achieved **+40 point factual accuracy gain** vs baseline retrieval  
-
-### [BrainMRI Classification](https://github.com/vink23/tumor_classification)
-Pipeline for classifying brain tumor MRIs into four categories using **DINOv2 embeddings + ML ensembles**.  
-- 🖼️ Extracted ViT embeddings from MRI scans  
-- 📈 Compared **LogReg, SVM, Random Forest, XGBoost** classifiers  
-- 🧪 Visualized feature space with PCA + t-SNE  
-- 🚑 Application: fast diagnostic support for radiologists
-
-## 🚀 Projects
-
-<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 16px; margin-bottom: 20px;">
-
-<h3><a href="https://github.com/vink23/SurgiRAG">🔎 SurgiRAG: Retrieval-Augmented Generation for Surgical QA</a></h3>
-
-<img src="https://img.shields.io/badge/-Python-blue?logo=python"/> 
-<img src="https://img.shields.io/badge/-PyTorch-orange?logo=pytorch"/> 
-<img src="https://img.shields.io/badge/-LoRA-red"/>  
-
-- BioBERT retriever + BGE reranker  
-- Fine-tuned **LLaMA** for factual grounding  
-- Metrics: FactCC, BERTScore, ROUGE-L  
-- ⚡ **+40 point factual accuracy gain**
-
-</div>
-
-<div style="border: 2px solid #eaeaea; border-radius: 12px; padding: 16px; margin-bottom: 20px;">
-
-<h3><a href="https://github.com/vink23/tumor_classification">🖼️ BrainMRI Classification</a></h3>
-
-<img src="https://img.shields.io/badge/-Python-blue?logo=python"/> 
-<img src="https://img.shields.io/badge/-DINOv2-purple"/> 
-<img src="https://img.shields.io/badge/-Machine%20Learning-green"/>  
-
-- DINOv2 ViT embeddings from MRI scans  
-- Compared **LogReg, SVM, Random Forest, XGBoost**  
-- Visualized feature space with **PCA + t-SNE**  
-- 🚑 **Fast diagnostic support for radiologists**
-
-</div>
-
-
 ## 🚀 Projects
 
 ### [SurgiRAG: Retrieval-Augmented Generation for Surgical QA](https://github.com/vink23/SurgiRAG)
