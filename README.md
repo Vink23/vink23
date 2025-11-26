@@ -121,7 +121,7 @@ Curious, slightly obsessive, and always skeptical - I love questions that don't 
   <li><strong>Loyola CV Lab</strong> — Computer vision + neuroscience research</li>
 </ul>
 
-<a href="https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf">📥 Download Full PDF Resume</a>
+<!-- <a href="https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf">📥 Download Full PDF Resume</a> -->
 
 </div>
 
