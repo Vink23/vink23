@@ -1,5 +1,5 @@
 ## Hi there, I'm Vinith 👋
-[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/vink23/resume_pdf/raw/main/Vinith_Kuruppu_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=read-the-docs)](https://github.com/Vink23/vink23.github.io/blob/main/public/resume.pdf)
 
 
 
